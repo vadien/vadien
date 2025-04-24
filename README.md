@@ -1,6 +1,11 @@
-#### 🌱 Current focus
+# Current focus
 - The basics - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
-- "Tank game" - A personal project to practice basic OOP principles and code structure in JS.
+- JavaScript
+  - "Tank game" - A personal project to practice basic OOP principles and code structure in JS.
+
+# Future goals
+- Python
+- A lower-level language
 
 <!--
 **vadien/vadien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
